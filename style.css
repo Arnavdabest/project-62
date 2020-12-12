@@ -1,0 +1,98 @@
+h1{
+  text-align:center;
+}
+
+img{
+  width:1100px;
+  border-radius:50%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+body{
+  background-color:red;
+}
+
+h2{
+  font-size:100px;
+  text-align:center;
+}
+
+p{
+  font-size:50px;
+  text-align:center;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+a{
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+}
+
+#work{
+    font-size: 40px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#reviews{
+    text-align: center;
+    font-size: 40px;
+}
+
+#inspiration{
+    text-align: center;
+}
+
+img{
+    transition: transform .2s;
+    border: 10px solid #D2691E;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+#contact{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.links{
+    float:left;
+    background-color:dimgray;
+    display: inline;
+    display: block;
+    padding: 8px;
+}
+a{
+    font-size: 30px;
+}
+
+#work{
+    text-align: center;
+}
+
